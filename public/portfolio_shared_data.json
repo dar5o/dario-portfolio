@@ -5,16 +5,21 @@
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/dar5o",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
+          "name": "Instagram",
+          "url": "https://www.instagram.com/dar.ito",
           "class": "fab fa-instagram"
+        },
+        {
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/dario-vitorte",
+          "class": "fab fa-linkedin"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "daaaaaaaaaario.png"
     },
     "skills": {
       "icons": [

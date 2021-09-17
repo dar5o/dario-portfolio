@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Dario Vitorte. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Hello",
+      "description": "👋 I’m Dario Vitorte. I’m a software engineer that is passionate about video games and coding. I've had a keen interest in coding since I was in middle school and I am mastering Javascript at CodeFellows to further my goal to work in the gaming industry. I have prepared myself for this career by studying computer science in high school and doing extracurricular programs in Java. Prior to this boot camp, I took some community college courses, was a software and hardware betting terminal technician at Golden Gate Fields, and was a semi-pro Valorant gamer. Thank you 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
