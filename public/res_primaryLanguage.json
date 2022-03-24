@@ -13,7 +13,7 @@
       {
         "title": "8Bit Blackjack",
         "startDate": "2021",
-        "description": "My most recent project i had the honor of working on. I've learned many technologies and my code was reviewed by an awesome curator. Application is a simple game of 21 that allows the user to play with 4 others and make bets based on cards dealt to them.",
+        "description": "My first project in code-fellows i had the honor of working on. I've learned many technologies and my code was reviewed by an awesome curator. Application is a simple game of 21 that allows the user to play with 4 others and make bets based on cards dealt to them.",
         "images": [
           "images/portfolio/blackjack/Screenshot_21.png",
           "images/portfolio/blackjack/Screenshot_22.png"
@@ -27,6 +27,51 @@
           {
             "class": "devicon-typescript-plain",
             "name": "TypeScript"
+          }
+        ]
+      },
+      {
+        "title": "Diss-Bot",
+        "startDate": "2022",
+        "description": "We wanted an easy way to keep track of user data in discord, and compare those users to one another.. and also an easy way to talk trash to your friends! A bot that is helpful in tracking user data, comparing users.. and dissing people.",
+        "images": [
+          "images/portfolio/diss-bot/Screenshot_4.jpg"
+        ],
+        "url": "https://github.com/diss-bot",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {"title": "iSherpa",
+        "startDate": "2021",
+        "description": "Hiking Application designed to take the hassle and confusion out of finding local hikes. Whether you are just getting into the outdoors or have hiked the PCT several times, Sherpa is here for you!",
+        "images": [
+          "images/portfolio/isherpa/Screenshot_1.png",
+          "images/portfolio/isherpa/Screenshot_40.png"
+        ],
+        "url": "https://isherpa.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {"title": "Cache-App",
+        "startDate": "2022",
+        "description": "An application for the tracking of relevant development notes organized with a social media feel.",
+        "images": [
+          "images/portfolio/cacheapp/Screenshot_3.png",
+          "images/portfolio/cacheapp/Screenshot_4.png"
+        ],
+        "url": "https://brave-jepsen-8e8769.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       }
